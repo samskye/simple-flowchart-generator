@@ -16,4 +16,4 @@ A Python CLI tool to generate flowcharts from structured JSON input, supporting 
 - [Graphviz](https://graphviz.org/download/) system package installed and in your PATH  
 - Python `graphviz` package:  
   ```bash
-  pip install graphviz
+  pip3 install graphviz
