@@ -1,4 +1,4 @@
-# Flowchart Generator Tool
+# Simple Flowchart Generator Script
 
 A Python CLI tool to generate flowcharts from structured JSON input, supporting linear and branching workflows. Outputs PNG images using Graphviz.
 
